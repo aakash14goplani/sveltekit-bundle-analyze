@@ -8,7 +8,7 @@ declare global {
 				user: {
 					name: string;
 					email: string;
-				}
+				};
 			} | null;
 		}
 		// interface PageData {}
